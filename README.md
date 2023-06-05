@@ -29,7 +29,7 @@ User story: I can see a page following the given design
 
 ## Built With
 
-- [Sass](https://sass-lang.com/)
+- CSS
 
 ## Author
 
