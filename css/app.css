@@ -79,8 +79,8 @@ main {
   background-color: var(--hover);
 }
 .footer {
-  padding: 2rem;
-  margin-top: 3rem;
+  padding: 2rem 0;
+  margin-top: 10rem;
   text-align: center;
 }
 .footer a {
