@@ -95,5 +95,6 @@ main {
     display: flex;
     align-items: center;
     gap: 2rem;
+    margin-bottom: 10rem;
   }
 }
