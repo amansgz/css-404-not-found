@@ -11,23 +11,9 @@ I can see a page following the given design
 
 ## Built With
 
-- CSS
+- CSS     
 
-<div>
-  <h3>
-    <a href="https://amansgz.github.io/css-404-not-found/">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/solutions/VXKCSGXRv2akxubBkfrh">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
-</div>
+[Demo](https://amansgz.github.io/css-404-not-found/)
 
 ![screenshot](./assets/preview.png)
 
