@@ -23,7 +23,7 @@ I can see a page following the given design
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -31,4 +31,4 @@ I can see a page following the given design
 
 ![screenshot](./assets/preview.png)
 
-This application/site was created as a submission to <a href="https://devchallenges.io/paths/responsive-web-developer">Devchallenges</a>
+This application/site was created as a submission to <a href="https://legacy.devchallenges.io/paths/responsive-web-developer">Devchallenges</a>
