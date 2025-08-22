@@ -1,62 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta
       name="viewport"
-      content="width=device-width, initial-scale=1, maximum-scale=5">
-    <link rel="icon" href="./assets/devchallenges.png">
-    <link
-      rel="shortcut icon"
-      type="image/x-icon"
-      href="https://devchallenges.io/">
-    <!-- FONTS Inconsolata 400, 700 - Space Mono 400, 700-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <!-- STYLES -->
-    <link rel="stylesheet" href="./css/app.css">
+      content="width=device-width, initial-scale=1, maximum-scale=5"
+    />
     <title>Devchallenges | 404 Not Found</title>
+    <link rel="icon" href="./assets/devchallenges.png" />
+    <!-- FONTS Inconsolata 400, 700 - Space Mono 400, 700-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- STYLES -->
+    <link rel="stylesheet" href="./css/app.css" />
   </head>
   <body>
-    <header class= "header">
-      <p class= "header__title">
-        404 Not Found
-      </p>
+    <header class="header">
+      <h1>404 Not Found</h1>
     </header>
 
     <main>
-      <section class= "section-message-error">
-        <div class= "message">
-          <div class= "message__image">
-            <figure>
-              <img src= "./assets/Scarecrow.png" alt= "Scarecrow">
-            </figure>
-          </div>
-
-          <div>
-            <h1 class= "message__title">
-              I have bad news for you
-            </h1>
-            <p class= "message__text">
-              The page you are looking for might be removed or is temporarily unavailable
-            </p>
-            <a href= "#" class= "back__home__link">
-              Back to homepage
-            </a>
-          </div>
+      <section class="error-section">
+        <div class="image-container">
+          <img
+            class="error-image"
+            src="./assets/Scarecrow.png"
+            alt="An illustration of a friendly scarecrow looking lost, simbolizing the page not found"
+          />
         </div>
-      </section>    
+
+        <div class="error-message">
+          <h2>I have bad news for you</h2>
+          <p>
+            The page you are looking for might be removed or is temporarily
+            unavailable
+          </p>
+          <a href="#" class="home-link">Back to homepage</a>
+        </div>
+      </section>
     </main>
 
-    <footer class= "footer">
-      <div>
-        <a class= "footer__attribution" 
-          href= "https://github.com/amansgz" 
-          target= "_blank">
-          Created by @amansgz - Devchallenges.io 
+    <footer class="footer">
+      <small>
+        <a
+          class="footer-attribution"
+          href="https://github.com/amansgz"
+          target="_blank"
+        >
+          Created by @amansgz
         </a>
-      </div>  
-    </footer>  
+      </small>
+    </footer>
   </body>
 </html>
