@@ -110,4 +110,10 @@ main {
     flex-direction: row;
     gap: 50px;
   }
+  .image-container {
+    flex: 1;
+  }
+  .error-message {
+    flex: 1;
+  }
 }
