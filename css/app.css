@@ -79,12 +79,11 @@ main {
   text-transform: uppercase;
   background-color: var(--primary-text-color);
   color: #fff;
-  transition: 0.1s ease;
+  transition: background-color 0.3s ease;
 }
 .home-link:hover,
 .home-link:focus {
   background-color: var(--accent-color);
-  transition: 0.3s ease;
 }
 
 .footer {
