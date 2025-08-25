@@ -1,4 +1,4 @@
-# 404 Not Found Page Solution
+# 404 Not Found Page
 
 This project is a modern and responsive solution to a 404 Not Found page challenge. The goal was to create a user-friendly error page that provides a simple and helpful experience, guiding the user back to the main site.
 
