@@ -35,6 +35,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 1rem;
 }
 
 .header {
@@ -61,20 +62,22 @@ main {
 .error-message h2 {
   max-width: 15ch;
   font-family: var(--font-heading);
-  font-size: clamp(2rem, 6vw, 4rem);
+  font-size: clamp(2rem, 4vw, 4rem);
   font-weight: 700;
 }
 .error-message p {
   max-width: 33ch;
-  margin: 2rem 0;
+  margin: 1rem 0 2rem;
   font-size: clamp(1rem, 2vw, 1.5rem);
+  letter-spacing: 1px;
   line-height: 1.5;
   color: var(--secondary-text-color);
 }
 
 .home-link {
   display: inline-block;
-  padding: 1.5em 2.5em;
+  padding: 1.2em 2em;
+  letter-spacing: 1px;
   text-decoration: none;
   text-transform: uppercase;
   background-color: var(--primary-text-color);
@@ -87,7 +90,7 @@ main {
 }
 
 .footer {
-  padding: 0.5rem;
+  padding: 2rem;
   text-align: center;
 }
 .footer a {
